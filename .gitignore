@@ -1,0 +1,11 @@
+.venv/
+site/
+
+# Working material stays local. Only what the tools need is tracked.
+_notes/*
+!_notes/tools/
+!_notes/PAGES.md
+!_notes/plan/
+_notes/plan/*
+!_notes/plan/merged.tsv
+__pycache__/
